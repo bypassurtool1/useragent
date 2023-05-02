@@ -24,5 +24,5 @@
 
 [FBAN/FB4A;FBAV/264.0.0.44.111;FBBV/45904160;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/264.0.0.44.111;FBCR/motorola;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.orca.lite;FBDV/vivo Y97;FBSV/5.0;FBOP/1;FBCA/x86:armeabi-v7a;]
 
-""")
+
 
