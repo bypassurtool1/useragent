@@ -1,28 +1,14 @@
 
 
 [FBAN/FB4A;FBAV/332.0.0.23.111;FBBV/45904160;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/332.0.0.23.111;FBCR/infinix;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.mlite;FBDV/vivo Y15;FBSV/5.0;FBOP/1;FBCA/x86:armeabi-v7a;]
-
 [FBAN/FB4A;FBAV/371.0.0.24.109;FBBV/45904160;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/371.0.0.24.109;FBCR/htc;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.mlite;FBDV/vivo Y55;FBSV/5.0;FBOP/1;FBCA/x86:armeabi-v7a;]
-
 [FBAN/FB4A;FBAV/371.0.0.24.109;FBBV/45904160;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/371.0.0.24.109;FBCR/samsung;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.orca.lite;FBDV/vivo Y97;FBSV/5.0;FBOP/1;FBCA/x86:armeabi-v7a;]
-
 [FBAN/FB4A;FBAV/284.0.0.50.107;FBBV/45904160;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/284.0.0.50.107;FBCR/htc;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.orca;FBDV/vivo Y55;FBSV/5.0;FBOP/1;FBCA/x86:armeabi-v7a;]
-
 [FBAN/FB4A;FBAV/284.0.0.50.107;FBBV/45904160;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/284.0.0.50.107;FBCR/Telenor;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.orca;FBDV/vivo Y17;FBSV/5.0;FBOP/1;FBCA/x86:armeabi-v7a;]
-
 [FBAN/FB4A;FBAV/372.1.0.23.107;FBBV/45904160;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/372.1.0.23.107;FBCR/TECNO;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.mlite;FBDV/vivo Y95;FBSV/5.0;FBOP/1;FBCA/x86:armeabi-v7a;]
-
 [FBAN/FB4A;FBAV/332.0.0.23.111;FBBV/45904160;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/332.0.0.23.111;FBCR/Grameenphone;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.orca.lite;FBDV/vivo Y93;FBSV/5.0;FBOP/1;FBCA/x86:armeabi-v7a;]
-
 [FBAN/FB4A;FBAV/264.0.0.44.111;FBBV/45904160;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/264.0.0.44.111;FBCR/motorola;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.orca;FBDV/vivo Y12;FBSV/5.0;FBOP/1;FBCA/x86:armeabi-v7a;]
-
 [FBAN/FB4A;FBAV/372.1.0.23.107;FBBV/45904160;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/372.1.0.23.107;FBCR/htc;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.orca.lite;FBDV/vivo Y31;FBSV/5.0;FBOP/1;FBCA/x86:armeabi-v7a;]
-
 [FBAN/FB4A;FBAV/373.0.0.31.112;FBBV/45904160;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/373.0.0.31.112;FBCR/infinix;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.orca.lite;FBDV/vivo Y17;FBSV/5.0;FBOP/1;FBCA/x86:armeabi-v7a;]
-
 [FBAN/FB4A;FBAV/264.0.0.44.111;FBBV/45904160;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/264.0.0.44.111;FBCR/samsung;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/vivo Y51;FBSV/5.0;FBOP/1;FBCA/x86:armeabi-v7a;]
-
 [FBAN/FB4A;FBAV/264.0.0.44.111;FBBV/45904160;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/264.0.0.44.111;FBCR/motorola;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.orca.lite;FBDV/vivo Y97;FBSV/5.0;FBOP/1;FBCA/x86:armeabi-v7a;]
-
-
-
